@@ -7,4 +7,12 @@ Current flow: \([link](https://excalidraw.com/#json=BTJirhyglFXfB8qjR7aIf,KPWF0i
 
 
 
+Todos: 
+* https://github.com/Grometheus/Planning/issues/1
+* https://github.com/Grometheus/Planning/issues/2
+
+
+Doing:
+* N/a
+
 
